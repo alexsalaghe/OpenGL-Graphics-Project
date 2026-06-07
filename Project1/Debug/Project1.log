@@ -1,0 +1,5 @@
+﻿  Racheta.c
+C:\Users\Asus\OneDrive\Desktop\Materiale Grafica -an 2 (2024)\Materiale Grafica -an 2 (2024)\Laboratoare_OpenGL\Laborator1\Racheta.c(258,19): warning C4133: 'function': incompatible types - from 'char [11]' to 'LPCWSTR'
+C:\Users\Asus\OneDrive\Desktop\Materiale Grafica -an 2 (2024)\Materiale Grafica -an 2 (2024)\Laboratoare_OpenGL\Laborator1\Racheta.c(265,49): warning C4113: 'void (__stdcall *)(void)' differs in parameter lists from 'AUXMOUSEPROC'
+C:\Users\Asus\OneDrive\Desktop\Materiale Grafica -an 2 (2024)\Materiale Grafica -an 2 (2024)\Laboratoare_OpenGL\Laborator1\Racheta.c(266,50): warning C4113: 'void (__stdcall *)(void)' differs in parameter lists from 'AUXMOUSEPROC'
+  Project1.vcxproj -> C:\Users\Asus\OneDrive\Desktop\PROIECT_GRAFICA_RACHETA\racheta\Debug\Project1.exe
