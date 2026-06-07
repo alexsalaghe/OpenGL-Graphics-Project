@@ -4,3 +4,5 @@
 *.exe
 *.pdb
 *.user
+**/Debug/
+**/Release/
